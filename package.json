@@ -1,7 +1,8 @@
 {
-  "name": "bento",
-  "version": "1.2.5",
+  "name": "startpage_bento",
+  "version": "1.0.0",
   "description": "🍱 Minimalist, elegant and hackable startpage inspired by the Bento box!",
-  "author": "Miguel Ávila",
+  "author": "9OwL",
   "license": "ISC"
 }
+
